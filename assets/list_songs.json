@@ -1,0 +1,99 @@
+
+[
+    {
+      "bgImage" : "assets/img/play1.jpg",
+      "title": "Que Boi",
+      "author" : "Feng Timo",
+      "url" : "audios/que_boi.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play2.jpg",
+      "title": "No More Goodbye",
+      "author" : "Unknown",
+      "url" : "audios/no_more_goodbye.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play3.jpg",
+      "title": "Xem La Giac Mo",
+      "author" : "Chu Bin",
+      "url" : "audios/xem_la_giac_mo.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play4.jpg",
+      "title": "Day Bien",
+      "author" : "Nhat Chi Luu Lien",
+      "url" : "audios/day_bien.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play5.jpg",
+      "title": "River Flower In You",
+      "author" : "Yiruma",
+      "url" : "audios/canon_inD.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play6.jpg",
+      "title": "I'll Do It",
+      "author" : "Heidi Montag",
+      "url" : "audios/i'll_do_it.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play7.jpg",
+      "title": "Grand Escape",
+      "author" : "Shinkai",
+      "url" : "audios/grand_escape.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play8.jpg",
+      "title": "Call Me On My Phone",
+      "author" : "puppi & Wheelie",
+      "url" : "audios/call_me_on_my_phone.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play9.png",
+      "title": "We don't talk anymore",
+      "author" : "Charlie Puth",
+      "url" : "audios/we_dont_talk.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play10.png",
+      "title": "Bang Khuang",
+      "author" : "Justatee",
+      "url" : "audios/bang_khuang.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play11.png",
+      "title": "Kimino Na Wa",
+      "author" : "Shinkai",
+      "url" : "audios/kiminonawa.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play12.png",
+      "title": "Mai Mai Ben Nhau",
+      "author" : "Noo Phuoc Thinh",
+      "url" : "audios/mai_mai_ben_nhau.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play13.png",
+      "title": "Dau Mua",
+      "author" : "Trung Quan",
+      "url" : "audios/dau_mua.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play14.png",
+      "title": "DayDreams",
+      "author" : "Soobin",
+      "url" : "audios/day_dream.mp3"
+    },
+    {
+      "bgImage" : "assets/img/play15.jpg",
+      "title": "Light Switch",
+      "author" : "Charlie Puth",
+      "url" : "audios/light_switch.mp3"
+    },
+    {
+    "bgImage" : "assets/img/img8.jpg",
+    "title": "Tinh Ve",
+    "author" : "Japandee",
+    "url" : "audios/tinh_ve.mp3"
+    }
+  ]

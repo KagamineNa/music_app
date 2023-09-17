@@ -1,0 +1,51 @@
+
+[
+  {
+    "bgImage" : "assets/img/img1.jpg",
+    "title": "Zombie",
+    "author" : "Bad Wolves",
+    "url" : "audios/zombie.mp3"
+  },
+  {
+    "bgImage" : "assets/img/img2.jpg",
+    "title": "Biet Tri Ky",
+    "author" : "Tang Yi",
+    "url" : "audios/biet_tri_ky.mp3"
+  },
+  {
+    "bgImage" : "assets/img/img3.jpg",
+    "title": "Set Fire To The Rain",
+    "author" : "Adele",
+    "url" : "audios/set_fire.mp3"
+  },
+  {
+    "bgImage" : "assets/img/img4.jpg",
+    "title": "Trap Queen",
+    "author" : "Adriana Gomez",
+    "url" : "audios/trap_queen.mp3"
+  },
+  {
+    "bgImage" : "assets/img/img5.jpg",
+    "title": "Hoa Co Lau",
+    "author" : "Phong Max",
+    "url" : "audios/hoa_co_lau.mp3"
+  },
+  {
+    "bgImage" : "assets/img/img6.jpg",
+    "title": "Up And Down",
+    "author" : "Marnik",
+    "url" : "audios/up_and_down.mp3"
+  },
+  {
+    "bgImage" : "assets/img/img7.jpg",
+    "title": "She Neva Known",
+    "author" : "Justatee",
+    "url" : "audios/she_neva_known.mp3"
+  },
+  {
+    "bgImage" : "assets/img/img8.jpg",
+    "title": "Tinh Ve",
+    "author" : "Japandee",
+    "url" : "audios/tinh_ve.mp3"
+  }
+]

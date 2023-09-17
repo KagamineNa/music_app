@@ -1,0 +1,44 @@
+[
+  {
+    "bgImage" : "assets/img/trend1.webp",
+    "title": "Stereo Love",
+    "author" : "Vika Jigulina",
+    "url" : "audios/stereo_love.mp3"
+  },
+  {
+    "bgImage" : "assets/img/trend2.jpg",
+    "title": "Cho Doi Co Dang So",
+    "author" : "Andiez",
+    "url" : "audios/cho_doi_co_dang_so.mp3"
+  },
+  {
+    "bgImage" : "assets/img/trend3.jpg",
+    "title": "Love Me Like You Do",
+    "author" : "Ellie Goulding",
+    "url" : "audios/love_me_like_you_do.mp3"
+  },
+  {
+    "bgImage" : "assets/img/trend4.jpg",
+    "title": "Phan Ma Hong",
+    "author" : "TLong",
+    "url" : "audios/phan_ma_hong.mp3"
+  },
+  {
+    "bgImage" : "assets/img/trend5.webp",
+    "title": "Super Natural",
+    "author" : "Unknown",
+    "url" : "audios/super_natural.mp3"
+  },
+  {
+    "bgImage" : "assets/img/trend6.jpg",
+    "title": "Co Nhan Tinh",
+    "author" : "De Choat",
+    "url" : "audios/co_nhan_tinh.mp3"
+  },
+  {
+    "bgImage" : "assets/img/trend7.jpg",
+    "title": "I Do",
+    "author" : "911",
+    "url" : "audios/i_do.mp3"
+  }
+]
